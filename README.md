@@ -47,6 +47,8 @@ Makes it possible to use your MyAnimeList/Anilist/Kitsu/Simkl anime/mangalist as
                 <td></td>
               </tr><tr>
                 <td><a href="https://animeflv.net"><img src="https://favicon.malsync.moe/?domain=https://animeflv.net"> Animeflv</a></td>
+                <td><a href="https://kinobuhta.online"><img src="https://favicon.malsync.moe/?domain=https://kinobuhta.online"> Aniwave</a></td>
+              </tr><tr>
                 <td><a href="https://mangalivre.net"><img src="https://favicon.malsync.moe/?domain=https://mangalivre.net"> Mangá Livre</a></td>
                 <td></td>
               </tr><tr>
